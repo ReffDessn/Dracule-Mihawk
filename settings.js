@@ -9,11 +9,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6282252285143','6282252285143'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
-global.Rowner = '6282252285143' //Owner Utama
+global.ownerNumber = ['62822522851432','62822522851432'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.Rowner = '62822522851432' //Owner Utama
 global.ownerName = 'ʀʏᴀɴ ᴀᴅᴛ' //Ganti Jadi Namamu
 global.packname = 'ʙʏ ʀʏᴀɴʙᴏᴛᴢ' //Ganti Jadi Nama Botmu
-global.author = 'ᴏᴡɴᴇʀ : 082252285143' //Ganti Jadi Namamu
+global.author = 'ᴏᴡɴᴇʀ : 0822522851432' //Ganti Jadi Namamu
 global.prefa = ['','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
 global.sessionName = 'sesi' //Saran Gausah Diganti Lagi
 global.webme = 'https://lynk.id/ryan_store' //Ganti Jadi Bebas Web Sosmed Mu
@@ -32,9 +32,9 @@ global.fiturError = 'Fitur Sedang Error ❎'
 //===> BOT SETTINGS
 global.autobackup = true //Ganti Ke false Kalau Gamau Di Kirimin File Setiap Hari
 global.autoread = true //Ganti ke false kalau gamau smua chat di read sama bot
-global.autotyping = true //Ganti ke false kalau gamau auto mengetik kalau ada chat masuk ke wa bot
+global.autotyping = false //Ganti ke false kalau gamau auto mengetik kalau ada chat masuk ke wa bot
 global.available = false //Ganti ke true kalau pengen bot nya keliatan online terus
-global.autolevelup = true //Ganti ke false klo gamau ada peningkatan exp user mu
+global.autolevelup = false //Ganti ke false klo gamau ada peningkatan exp user mu
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU 
 global.mess = {
